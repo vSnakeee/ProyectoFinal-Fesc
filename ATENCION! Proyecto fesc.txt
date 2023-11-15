@@ -1,0 +1,11 @@
+ATENCION !
+
+El proyecto final funciona como app, asi que se debe ejecutar en android studio despues de vincular un dispositivo movil
+
+Tambien, tener en cuenta que este responde por comando de voz
+
+El texto puede ser utilizado para pregunta. Pero se debe aclarar bien que es lo que se necesita
+
+Toda pregunta/accion que no entienda la ia, la va a detectar como error. Ser claro en lo que se diga.
+
+Tener en cuenta que todos los archivos del github, deben ser alojados en una carpeta con nombre y esta misma puede ser llevada a android studio o inclusive a visual studio code ( aunque no sirva para nada esto ultimo )
